@@ -1,0 +1,16 @@
+D:\Rust\Hack\Root_Client\Root_Client\bin\Debug\Root_Client.exe.config
+D:\Rust\Hack\Root_Client\Root_Client\bin\Debug\Root_Client.exe
+D:\Rust\Hack\Root_Client\Root_Client\bin\Debug\Root_Client.pdb
+D:\Rust\Hack\Root_Client\Root_Client\bin\Debug\MetroFramework.Design.dll
+D:\Rust\Hack\Root_Client\Root_Client\bin\Debug\MetroFramework.dll
+D:\Rust\Hack\Root_Client\Root_Client\bin\Debug\MetroFramework.Fonts.dll
+D:\Rust\Hack\Root_Client\Root_Client\obj\Debug\Root_Client.csprojResolveAssemblyReference.cache
+D:\Rust\Hack\Root_Client\Root_Client\obj\Debug\Root_Client.Properties.Resources.resources
+D:\Rust\Hack\Root_Client\Root_Client\obj\Debug\Root_Client.csproj.GenerateResource.Cache
+D:\Rust\Hack\Root_Client\Root_Client\obj\Debug\Root_Client.exe
+D:\Rust\Hack\Root_Client\Root_Client\obj\Debug\Root_Client.pdb
+D:\Rust\Hack\Root_Client\Root_Client\bin\Debug\logo.png
+D:\Rust\Hack\Root_Client\Root_Client\obj\Debug\Root_Client.exe.licenses
+D:\Rust\Hack\Root_Client\Root_Client\obj\Debug\Root_Client.StartupScreen.resources
+D:\Rust\Hack\Root_Client\Root_Client\obj\Debug\Root_Client.Dashboard.resources
+D:\Rust\Hack\Root_Client\Root_Client\obj\Debug\Root_Client.AccountsWindow.resources

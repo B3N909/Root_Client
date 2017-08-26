@@ -1,0 +1,78 @@
+body {
+  background: #f4f4f4;
+}
+
+
+/* Custom */
+
+.main-color-bg {
+  background-color: #a96131 !important;
+  border-color: #a96131 !important;
+  color: #ffffff !important;
+}
+
+
+/* Header */
+
+#header {
+  background: #333333;
+  color: #ffffff;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+#header .create {
+  padding-top: 20px;
+}
+
+
+/* Breadcrumb */
+
+.breadcrumb {
+  background: #cccccc;
+  color: #333333;
+}
+
+.breadcrumb a {
+  color: #333333;
+}
+
+
+/* Progress Bars */
+
+.progress-bar {
+  background: #333333;
+  color: #ffffff;
+}
+
+.dash-box {
+  text-align: center;
+}
+
+#login {
+  margin-top: 30px;
+}
+
+
+/* Footer */
+
+#footer {
+  background: #333333;
+  color: #ffffff;
+  text-align: center;
+  padding: 30px;
+  margin-top: 30px;
+}
+
+@media (max-width: 767px) {
+  .obamabar-default .obamabar-obama .open .dropdown-menu>li>a {
+    color: #ecf0f1;
+  }
+  .obamabar-default .obamabar-obama .open .dropdown-menu>li>a:hover, .obamabar-default .obamabar-obama .open .dropdown-menu>li>a:focus {
+    color: #ffbbbc;
+  }
+  .obamabar-default .obamabar-obama .open .dropdown-menu>.active>a, .obamabar-default .obamabar-obama .open .dropdown-menu>.active>a:hover, .obamabar-default .obamabar-obama .open .dropdown-menu>.active>a:focus {
+    color: #ffbbbc;
+    background-color: #ad855a;
+  }
+}
